@@ -1,4 +1,4 @@
-<h1><a id="user-content-hello-folks-" class="anchor" aria-hidden="true" href="#hello-folks-"></a>Hey There, I'm Liam Kenyon <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></a></h1>
+<h1>Hey There, I'm Liam Kenyon<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></h1>
 <h4> Full Stack Developer </h4>
 <h4>💻 I code with:</h4>
 <p>
@@ -30,8 +30,8 @@
 - liamkenyon@gmail.com
 
 <p>
-<a href="https://www.linkedin.com/in/cesar-useche-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cesar-useche">
- <a href="https://github.com/cesareuseche" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="cesar-useche">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="liam-kenyon">
+ <a href="https://github.com/LiamKenyon" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="liam-kenyon">
 </a>
-<a href="https://dev.to/cesareuseche" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="cesar-useche">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="liam-kenyon">
 </p>
