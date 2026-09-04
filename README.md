@@ -1,37 +1,72 @@
-<h1>Hey There, I'm Liam Kenyon<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;"></h1>
-<h4> Full Stack Developer </h4>
-<h4>💻 I code with:</h4>
-<p>
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>		
- <img src= "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
- <img src= 'https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' />
- <img src= 'https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white' />
- <img src= 'https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
- <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
- <img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
- <img src= 'https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
- <img src= 'https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
- <img src= 'https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' />
- <img src= 'https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' />
- <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
- <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
- <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</p>
+# Hi, I'm Liam
 
-<h4>📫 How to reach me:</h4>
+Independent developer building practical, open-source software for WordPress and the web.
 
-- liamkenyon@gmail.com
+My recent work focuses on taking problems that are normally solved by expensive SaaS products or fragmented plugins and building open alternatives that can be self-hosted, extended and actually used in production.
 
-<p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="liam-kenyon">
- <a href="https://github.com/LiamKenyon" target="_blank"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="liam-kenyon">
-</a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="liam-kenyon">
-</p>
+## Current Open Source Projects
+
+### WPRaffle
+
+A complete open-source raffle and competition platform built around WordPress and WooCommerce.
+
+WPRaffle goes considerably beyond basic ticket sales, with instant wins, automated draws, competition lifecycles, ticket management, responsible-gambling controls, analytics, Elementor integration, Gutenberg blocks and a dedicated companion theme.
+
+**Stack:** WordPress · PHP · WooCommerce · JavaScript · Elementor · Gutenberg
+
+**Project:** wpraffle.dev  
+**GitHub:** github.com/wpraffle
+
+---
+
+### DemoPress
+
+An open-source platform for creating temporary, isolated WordPress demo environments.
+
+DemoPress lets plugin and theme developers give potential users access to real, disposable WordPress installations instead of relying on screenshots or shared demo sites.
+
+The project is designed around self-hosting, containerisation and automation, with DemoPress Cloud being developed as the managed platform built on top of the open-source core.
+
+**Stack:** Docker · WordPress · PHP · Linux · REST APIs · Infrastructure Automation
+
+**Project:** demopress.co.uk
+
+---
+
+### LMS Pro
+
+An open-source Last Man Standing competition platform for WordPress.
+
+LMS Pro handles football survivor competitions where players select a team each round, progress when their team wins and are eliminated when it doesn't.
+
+The goal is to provide a flexible foundation for running anything from small private competitions to larger commercial LMS sites, with automated fixtures, player management, competition rules and payment integration.
+
+**Stack:** WordPress · PHP · WooCommerce · JavaScript · Football Data APIs
+
+---
+
+## What I'm Building
+
+Most of my projects follow the same philosophy:
+
+**Open source first. Self-hostable. Production focused.**
+
+I'm particularly interested in:
+
+- WordPress plugin and theme development
+- SaaS alternatives built around open-source cores
+- Docker and disposable infrastructure
+- Automation and API integrations
+- WooCommerce platforms
+- Developer tooling
+- Turning niche workflows into reusable software
+
+I tend to build the tools I wish already existed, then release them so other developers can use, modify and improve them.
+
+## Elsewhere
+
+**KNYN.DEV** — knyn.dev  
+**WPRaffle** — wpraffle.dev  
+**DemoPress** — demopress.co.uk
+
+Most of what I'm working on is developed in public. Contributions, bug reports and ideas are welcome.
